@@ -69,7 +69,7 @@ uv run agent.py --clean
 
 ---
 
-## Proof of Processing (PoP) Validation JSON & Prompts
+## Prompt of Prompts (PoP) Validation JSON & Prompts
 
 ### 1. Perception Layer Boundary
 *   **System Prompt**:
