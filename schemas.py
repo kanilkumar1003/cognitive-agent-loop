@@ -76,6 +76,10 @@ class AttachedArtifact(BaseModel):
     content: bytes
 
 
+# =====================================================================
+# Prompt of Prompts (PoP) Input/Output Validation JSON Schemas
+# =====================================================================
+
 class PerceptionInput(BaseModel):
     query: str
     hits: list[MemoryItem]
